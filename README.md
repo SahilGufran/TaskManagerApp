@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 
-Live: <a href="https://taskmanagerapp1234.netlify.app/">Task Manager App</a>
+Live: <a href="https://taskmanagerapp1234.netlify.app">Task Manager App</a>
 
 
 ## Available Scripts
